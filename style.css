@@ -1,3 +1,4 @@
+
 body {
     font-family: "Times New Roman";
     font-size: 14px;
@@ -8,12 +9,13 @@ body {
     border:dotted 15px;
     padding: 1.4em 3em;
     background-color: khaki;
+
 }
 
 p {
     text-align: left;
-    border:outset 7px grey;
-    padding: 0.3em 0.5em;
+       border:outset 7px grey;
+       padding: 0.3em 0.5em;
 }
 
 h1 {
@@ -65,3 +67,7 @@ th {
     text-align: -internal-center;
 }
 
+div {
+    background-color: white;
+    
+}
